@@ -6,10 +6,9 @@
  - Facultad: Fisiano de software 😼
  - UNI: UNMSM
 
+## Hobbies siii
 
- ## Hobbies
- 
- - Juego al minecraft y roblox
- - Me encanta leer novelas
- - Soy abierto a cualquier tipo de música
- - Soy tonto
+ - Videojuegos (minecraft y roblox)
+ - Novelas
+ - Música
+ - Code
