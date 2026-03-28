@@ -6,6 +6,7 @@
  - Facultad: Fisiano de corazón 😼
  - UNI: UNMSM
 
+
  ## Hobbies
  
  - Juego al minecraft y roblox
