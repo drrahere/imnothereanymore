@@ -6,7 +6,7 @@
  - Facultad: Fisiano de corazón 😼
  - UNI: UNMSM
 
- ## Gustos 👻
+ ## Gustos
  
  - Juego al minecraft y roblox
  - Me encanta leer novelas
