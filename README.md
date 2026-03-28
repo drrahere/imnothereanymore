@@ -7,6 +7,7 @@
  -UNI: UNMSM
 
  ## Gustos 👻
+ 
  -Juego al minecraft y roblox
  -Me encanta leer novelas
  -Soy abierto a cualquier tipo de música
