@@ -2,13 +2,13 @@
 
 ## Me presento como DRRA, yey
 
- -Nombre: DRRA
- -Facultad: Fisiano de corazón 😼
- -UNI: UNMSM
+ - Nombre: DRRA
+ - Facultad: Fisiano de corazón 😼
+ - UNI: UNMSM
 
  ## Gustos 👻
  
- -Juego al minecraft y roblox
- -Me encanta leer novelas
- -Soy abierto a cualquier tipo de música
- -Soy tonto
+ - Juego al minecraft y roblox
+ - Me encanta leer novelas
+ - Soy abierto a cualquier tipo de música
+ - Soy tonto
