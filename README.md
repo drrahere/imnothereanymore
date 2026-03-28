@@ -3,7 +3,7 @@
 ## Me presento como DRRA, yey
 
  - Nombre: DRRA
- - Facultad: Fisiano de corazón 😼
+ - Facultad: Fisiano de software 😼
  - UNI: UNMSM
 
 
